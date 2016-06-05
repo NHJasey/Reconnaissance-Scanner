@@ -6,4 +6,4 @@ def get_domain_name(url):
 	return domain_name
 
 
-print(get_domain_name('https://www.google.com'))
+print(get_domain_name('#url here'))
